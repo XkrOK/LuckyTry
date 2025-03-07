@@ -1,2 +1,2 @@
 # LuckyTry
-minecraft plugin LuckyTry
+Это # Документация по плагину LuckyTry

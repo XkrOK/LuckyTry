@@ -1,0 +1,11 @@
+name: LuckyTry
+version: '1.0'
+main: luarennix.luckytry.Luckytry
+api-version: '1.16'
+commands:
+  luckyduel:
+    description: "Пригласить игрока на Lucky Duel с указанием суммы или принять/отклонить приглашение"
+    usage: |
+      /luckyduel <ник> <сумма>
+      /luckyduel accept
+      /luckyduel cancel

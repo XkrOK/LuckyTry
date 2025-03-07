@@ -1,0 +1,2 @@
+# LuckyTry
+minecraft plugin LuckyTry
